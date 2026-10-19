@@ -1,0 +1,6 @@
+hipotesis,indicador,prueba,n,A,D,estadistico,p_valor,decision
+H.E. 1,CE (decisión estable),McNemar exacto,46,0.0,10.869565217391305,0.0,0.0625,No se rechaza H0
+H.E. 1,J (Jaccard entre ejecuciones),Wilcoxon,46,0.18957187739796436,0.4792753623188406,106.0,2.0634344118719133e-06,Se rechaza H0
+H.E. 2,TDA (decisión alucinada),McNemar exacto,230,93.91304347826087,51.30434782608696,5.0,7.213042994342267e-25,Se rechaza H0
+H.E. 3,P (precisión por consulta),Wilcoxon,46,0.21072981366459625,0.3242753623188406,270.5,0.038134818708721575,Se rechaza H0
+H.E. 3,F1 (por consulta),Wilcoxon,46,0.15538829449517297,0.13738365499235064,339.0,0.23574481188468444,No se rechaza H0
